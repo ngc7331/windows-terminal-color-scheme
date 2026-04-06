@@ -1,0 +1,23 @@
+{
+    "name": "Monokai Pro Light (Filter Sun)",
+    "background": "#F8EFE7",
+    "foreground": "#2C232E",
+    "black": "#F8EFE7",
+    "blue": "#6699DF",
+    "cyan": "#2473B6",
+    "green": "#218871",
+    "purple": "#6851A2",
+    "red": "#CE4770",
+    "white": "#2C232E",
+    "yellow": "#B16803",
+    "brightBlack": "#FDF7F3",
+    "brightBlue": "#6699DF",
+    "brightCyan": "#2473B6",
+    "brightGreen": "#218871",
+    "brightPurple": "#6851A2",
+    "brightRed": "#CE4770",
+    "brightWhite": "#2C232E",
+    "brightYellow": "#B16803",
+    "cursorColor": "#2C232E",
+    "selectionBackground": "#2C232E"
+}
