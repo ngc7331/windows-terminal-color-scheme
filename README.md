@@ -47,7 +47,7 @@ Alternatively, you can copy the schemes defination and paste to the settings fil
 
 Windows Terminal seem to use `white` color instead of `foreground` color to render command parameters, causing it hard to read in some light themes. Not sure if this is a bug on my computer or a design choice.
 
-Anyway, I swapped `white` and `black` colors in the original color schemes to make them work better in Windows Terminal.
+Anyway, I'm using `black` colors in the original color schemes as `white` colors to make them work better in Windows Terminal.
 
 ## Schemes
 

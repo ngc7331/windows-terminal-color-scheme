@@ -8,7 +8,7 @@
     "green": "#859900",
     "purple": "#D33682",
     "red": "#DC322F",
-    "white": "#EEE8D5",
+    "white": "#002B36",
     "yellow": "#B58900",
     "brightBlack": "#073642",
     "brightBlue": "#839496",
@@ -16,7 +16,7 @@
     "brightGreen": "#586E75",
     "brightPurple": "#6C71C4",
     "brightRed": "#CB4B16",
-    "brightWhite": "#FDF6E3",
+    "brightWhite": "#073642",
     "brightYellow": "#657B83",
     "cursorColor": "#FFFFFF",
     "selectionBackground": "#FFFFFF"
