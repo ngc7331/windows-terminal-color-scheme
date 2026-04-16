@@ -1,8 +1,8 @@
 {
-    "name": "Solarized Dark Fixed",
-    "foreground": "#839496",
-    "background": "#002B36",
-    "black": "#002B36",
+    "name": "Solarized Light Fixed",
+    "background": "#FDF6E3",
+    "foreground": "#657B83",
+    "black": "#EEE8D5",
     "blue": "#268BD2",
     "cyan": "#2AA198",
     "green": "#859900",
@@ -10,7 +10,7 @@
     "red": "#DC322F",
     "white": "#002B36",
     "yellow": "#B58900",
-    "brightBlack": "#073642",
+    "brightBlack": "#FDF6E3",
     "brightBlue": "#839496",
     "brightCyan": "#93A1A1",
     "brightGreen": "#586E75",
@@ -18,6 +18,6 @@
     "brightRed": "#CB4B16",
     "brightWhite": "#073642",
     "brightYellow": "#657B83",
-    "cursorColor": "#FFFFFF",
-    "selectionBackground": "#FFFFFF"
+    "cursorColor": "#002B36",
+    "selectionBackground": "#2C4D57"
 }
